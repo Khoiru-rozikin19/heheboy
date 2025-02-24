@@ -18,17 +18,17 @@ echo -e " "
 echo -e "\033[0;37m Script Ini Version LifeTime "
 echo -e " Tuk Infonya Silahkan Hubungi Admin"
 echo -e " Version MultiPort Edision Stable "
-echo -e "\033[0;36m By Arya Blitar 081931615811 "
+echo -e "\033[0;36m Rzk Store 082372838757 "
 echo -e "\033[0;32m"
-kunci="13254";
+kunci="jkn123";
 read -s -p "Masukkan Password : " pass
 if [ $pass == $kunci ]
 then cat login.sh
 clear
 else
-echo -e "\033[0;31m Password Salah Sayank...!!"
+echo -e "\033[0;31m Password Salah ...!!"
 echo -e " "
-echo -e "\033[0;32m Segera Hub. Admin 081931615811 "
+echo -e "\033[0;32m Segera Hub. Admin 082372838757 "
 echo -e " "
 exit
 fi
@@ -47,8 +47,8 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e " Dev > Script ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e " Auther : ${green}St Pusat ${NC}"
-echo -e " © Blitar Udanawu / Karanggayam ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e " Auther : ${green}heheboy ${NC}"
+echo -e " © Tanjung Makmur / Batumarta16 ${YELLOW}(${NC} 2025 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
@@ -104,7 +104,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/"
+    REPO="https://raw.githubusercontent.com/jaenelabidin/heheboy/main/"
 
 ####
 start=$(date +%s)
@@ -305,10 +305,10 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>IPVPS    :</code><code>$MYIP</code>
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>────────────────────</code>
-<b> happy new year 2024 </b>
+<b> happy ramadan mubarak </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6281931615811"}]]}' 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6282372838757"}]]}' 
 
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
