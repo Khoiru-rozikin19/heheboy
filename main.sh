@@ -18,16 +18,16 @@ echo -e " "
 echo -e "\033[0;37m Script Ini Version LifeTime "
 echo -e " Tuk Infonya Silahkan Hubungi Admin"
 echo -e " Version MultiPort2 Edision Stable "
-echo -e "\033[0;36m By Arya Blitar 081931615811 "
+echo -e "\033[0;36m Rzk Store 082372838757 "
 echo -e "\033[0;32m"
-kunci="13254";
+kunci="jkn123";
 read -s -p "Masukkan Password : " pass
 if [ $pass == $kunci ]
 then cat login.sh
 clear
 else
-echo -e "\033[0;31m Password Salah Sayank...!!"
-echo -e "\033[0;32m Segera Hub. Admin 081931615811 "
+echo -e "\033[0;31m Password Salah ...!!"
+echo -e "\033[0;32m Segera Hub. Admin 082372838757 "
 exit
 fi
 echo -e "\033[0;32m SELAMAT ANDA BERHASIL MASUK & INSTALL"
@@ -301,7 +301,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>IPVPS    :</code><code>$MYIP</code>
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>────────────────────</code>
-<b> happy new year 2024 </b>
+<b> happy ramadan mubarak </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6281931615811"}]]}' 
