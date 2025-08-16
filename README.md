@@ -12,7 +12,7 @@
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Khoiru-rozikin19/heheboy/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
-![logo](https://raw.githubusercontent.com/Khoiru-rozikin19/heheboy/main/scp.png)
+![logo](https://github.com/Khoiru-rozikin19/bruh/blob/main/wilo.png)
 
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10,11 / UBUNTU 20.18, 20.04 LANGSUNG INSTALL AJA!!!
 REKOMONDASI MAKEK DOMAIN SENDIRI.
