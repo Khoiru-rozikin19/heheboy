@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=R+O+M+A+D+O+N++T+I+B+A" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=D+I+R+G+A+H+A+Y+U" />
 </p>
 
 ### 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=R+Z+K++S+T+O+R+E" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+N+D+O+N+E+S+I+A" />
 </p>
 
 ````
